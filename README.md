@@ -1,9 +1,5 @@
 ![enter image description here](https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761771685531x347390430785958500/godelcloud.banner.png	)
-# List of UK Asset Managers
-<hr>
-
-**Segment:** Alternative Asset Managers
-<hr>
+# List of UK Alternative Asset Managers
 
 GodelCloud’s [Dataset of UK Alternative Asset Managers](https://godelcloud.com/uk-aifm-dataset) delivers the structured view that enables value identification and risk mitigation at both the entity and sector level.
 
